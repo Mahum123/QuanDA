@@ -1,6 +1,6 @@
 # QuanDA: Quantitative Deep Neural Network Analysis
 
-This repository contains the execution code for the quantitative deep neural network (DNN) framework, **QuanDA**, as described in the paper. The ACAS Xu networks benchmark and its properties are used to show the analysis of DNNs using QuandA.
+This repository contains the execution code for the quantitative deep neural network (DNN) framework, **QuanDA**, as described in the paper[^*]. The ACAS Xu networks benchmark and its properties are used to show the analysis of DNNs using QuandA.
 
 
 ## This Repository
@@ -43,4 +43,4 @@ Analyzing a network generates `./Logs/ACAS_Xu/ACASXU_run2a_X_X_batch_2000/` dire
 * `Detailed_Prop/` : contains .npy files containing probabilities of each stratum, of each node, at each layer of the network
 * `Summary_Detailed_*.txt` : Summary of stats and output-layer-results for all iterations
 
-
+[^*]: Paper documenting details of the work soon to be available online.
