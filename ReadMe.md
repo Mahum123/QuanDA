@@ -12,7 +12,6 @@ This directory contains the following:
 * `./requirements.txt` : The list of required packages (and their specific versions)
 * `./*.py` and `./*.so` : QuanDA implementation modules
 * `./main.py` : Python wrapper for execution of QuanDA
-* `./Layer1_results_png/` : Box plots of reachability results for layer 1 of nodes, of all networks (subset of results given in Fig. 6 of the paper)
 
 ## Getting Started
 
